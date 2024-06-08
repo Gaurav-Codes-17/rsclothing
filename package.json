@@ -9,7 +9,10 @@
   "author": "gaurav sood",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.11",
     "cookie-parser": "^1.4.6",
+    "debug": "^4.3.5",
+    "debugger": "^1.0.0",
     "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
